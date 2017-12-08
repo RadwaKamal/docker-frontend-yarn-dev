@@ -40,4 +40,4 @@ How to run it
 ----
 1. `cd` in your app dir 
 2. `docker run --rm -it -v $PWD:/home/app -p 9000:9000 radwa/frontend-yarn-dev`
-1. **OPTIONAL STPE** (in case you used my webpack configuration) : `yarn install && yarn run start` 
+1. **OPTIONAL STEP** (in case you used my webpack configuration) : `yarn install && yarn run start` 
